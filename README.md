@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Name: Jiang Chenyang(蒋晨阳)
+
+I'm a passionate researcher and doctoral candidate at Harbin Institute of Technology (Shenzhen) 🎓. I received my B.S. degree in Computer Science and Technology at Harbin Institute of Technology (Shenzhen) 🏫 in 2023. Currently, I'm pursuing a Ph.D. in Computer Science and Technology, specializing in the fascinating field of 3D Artificial Intelligence for Graphics and Computing (AIGC) 👨‍💻🌐.
+
+Under the guidance of Professor Jingyong Su, I dedicates my research to exploring the intersection of artificial intelligence and computer graphics, aiming to enhance the realism and interactivity of 3D visualizations, virtual reality experiences, and computer-generated imagery 🖥️🎮. I'm enthusiastic about developing innovative algorithms and models that push the boundaries of the field.
