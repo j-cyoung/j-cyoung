@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 <!--
 **j-cyoung/j-cyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Name: Jiang Chenyang(蒋晨阳)
+# 👋 Hi, I'm Chenyang Jiang
 
-I'm a passionate researcher and doctoral candidate at Harbin Institute of Technology (Shenzhen) 🎓. I received my B.S. degree in Computer Science and Technology at Harbin Institute of Technology (Shenzhen) 🏫 in 2023. Currently, I'm pursuing a Ph.D. in Computer Science and Technology, specializing in the fascinating field of Dataset Distillation. 👨‍💻🌐.
+<img src="./IMG_20250927_171020.jpg" alt="Profile Picture" width="120" />
 
-Under the guidance of Professor Jingyong Su, I dedicates my research to exploring the data-centric ai. I'm enthusiastic about developing innovative algorithms and models that push the boundaries of the field.
+I'm a doctoral candidate at Harbin Institute of Technology, Shenzhen, advised by Professor Jingyong Su.  
+I received my B.S. degree in Computer Science and Technology at HIT Shenzhen in 2023.  
+
+My research focuses on **data-centric AI**, particularly **dataset distillation**.
+
+[2025-09-20]() My recent paper *"Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation"* has been accepted at **NeurIPS 2025**.
+
+
