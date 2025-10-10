@@ -26,6 +26,6 @@ I received my B.S. degree in Computer Science and Technology at HIT Shenzhen in 
 
 My research focuses on **data-centric AI**, particularly **dataset distillation**.
 
-[2025-09-20]() My recent paper *"Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation"* has been accepted at **NeurIPS 2025**.
+[2025-09-20]() My recent paper *"Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation"* has been accepted at **NeurIPS 2025**. Paper and code coming soon...
 
 
